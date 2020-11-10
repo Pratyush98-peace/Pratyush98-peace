@@ -48,7 +48,7 @@
 [<img align="left" alt="Pratyush Jha | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Pratyush Jha | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]:www.linkedin.com/in/pratyush-chaser
+[linkedin]:https://www.linkedin.com/in/pratyush-chaser
 [instagram]:https://www.instagram.com/pratyush7184/
 [facebook]:https://www.facebook.com/pratyush.jha.967
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/pratyush_jha/practice
