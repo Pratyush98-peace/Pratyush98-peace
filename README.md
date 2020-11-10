@@ -45,12 +45,16 @@
 
 [<img align="left" alt="Pratyush Jha | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Pratyush Jha | Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="Pratyush Jha | Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="Rajesh Ranjan | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Pratyush Jha | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Pratyush Jha | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]:https://www.linkedin.com/in/pratyush-chaser
 [instagram]:https://www.instagram.com/pratyush7184/
 [facebook]:https://www.facebook.com/pratyush.jha.967
+[codeforces]:https://codeforces.com/profile/vovuh
+[hackerrank]:https://www.hackerrank.com/pratyushjha1999
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/pratyush_jha/practice
 
 
